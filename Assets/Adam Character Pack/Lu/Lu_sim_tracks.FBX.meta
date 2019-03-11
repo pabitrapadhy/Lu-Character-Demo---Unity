@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 417d8d57bf413b0438132c22581f69b5
+timeCreated: 1477592393
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1_track004
+    100002: Bone085
+    100004: Bone086
+    100006: Bone087
+    100008: Bone088
+    100010: Bone089
+    100012: chain_bone_00
+    100014: chain_bone_01
+    100016: chain_bone_02
+    100018: chain_bone_03
+    100020: chain_bone_04
+    100022: chain_bone_05
+    100024: chain_bone_07
+    100026: chain_bone_08
+    100028: chain_bone_09
+    100030: chain_bone_10
+    100032: chain_bone_11
+    100034: chain_bone_12
+    100036: //RootNode
+    100038: root_bone
+    100040: TRACK_L
+    100042: Bone085(mirrored)
+    100044: Bone086(mirrored)
+    100046: Bone087(mirrored)
+    100048: Bone088(mirrored)
+    100050: Bone089(mirrored)
+    100052: chain_bone_00(mirrored)
+    100054: chain_bone_01(mirrored)
+    100056: chain_bone_02(mirrored)
+    100058: chain_bone_03(mirrored)
+    100060: chain_bone_04(mirrored)
+    100062: chain_bone_05(mirrored)
+    100064: chain_bone_07(mirrored)
+    100066: chain_bone_08(mirrored)
+    100068: chain_bone_09(mirrored)
+    100070: chain_bone_10(mirrored)
+    100072: chain_bone_11(mirrored)
+    100074: chain_bone_12(mirrored)
+    100076: root_bone001
+    100078: TRACK_R
+    400000: 1_track004
+    400002: Bone085
+    400004: Bone086
+    400006: Bone087
+    400008: Bone088
+    400010: Bone089
+    400012: chain_bone_00
+    400014: chain_bone_01
+    400016: chain_bone_02
+    400018: chain_bone_03
+    400020: chain_bone_04
+    400022: chain_bone_05
+    400024: chain_bone_07
+    400026: chain_bone_08
+    400028: chain_bone_09
+    400030: chain_bone_10
+    400032: chain_bone_11
+    400034: chain_bone_12
+    400036: //RootNode
+    400038: root_bone
+    400040: TRACK_L
+    400042: Bone085(mirrored)
+    400044: Bone086(mirrored)
+    400046: Bone087(mirrored)
+    400048: Bone088(mirrored)
+    400050: Bone089(mirrored)
+    400052: chain_bone_00(mirrored)
+    400054: chain_bone_01(mirrored)
+    400056: chain_bone_02(mirrored)
+    400058: chain_bone_03(mirrored)
+    400060: chain_bone_04(mirrored)
+    400062: chain_bone_05(mirrored)
+    400064: chain_bone_07(mirrored)
+    400066: chain_bone_08(mirrored)
+    400068: chain_bone_09(mirrored)
+    400070: chain_bone_10(mirrored)
+    400072: chain_bone_11(mirrored)
+    400074: chain_bone_12(mirrored)
+    400076: root_bone001
+    400078: TRACK_R
+    4300000: 1_track004
+    4300002: TRACK_L
+    4300004: TRACK_R
+    9500000: //RootNode
+    13700000: 1_track004
+    13700002: TRACK_L
+    13700004: TRACK_R
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

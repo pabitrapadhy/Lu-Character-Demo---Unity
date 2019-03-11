@@ -1,0 +1,3 @@
+Restricted Asset License Terms
+
+The Asset accompanying this notice is a Restricted Asset pursuant to the Unity Asset Store EULA. Only a limited, non-exclusive, non-transferable, non-sublicensable license to the Asset for personal and non-commercial use is granted; no commercial use is permitted. Further, this license grant is subject to termination by Unity in its sole discretion at any time. 
